@@ -1,4 +1,4 @@
-module github.com/youngkzz/DDBOT-example
+module github.com/youngkzz/ddbot-uploadRecord
 
 go 1.20
 
